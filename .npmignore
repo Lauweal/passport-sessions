@@ -1,3 +1,7 @@
 # source
 package-lock.json
 .prettierrc
+.husky
+.changeset
+.git
+.github
