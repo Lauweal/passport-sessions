@@ -1,5 +1,0 @@
----
-'passport-sessions': patch
----
-
-init
