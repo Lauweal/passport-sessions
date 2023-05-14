@@ -1,10 +1,6 @@
 # 整个流程的名字
 name: Release
 
-permissions:
-  contents: read
-  pull-requests: write
-
 # 触发时机，在 main 分支 push 操作触发
 on:
   push:
