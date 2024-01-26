@@ -1,5 +1,11 @@
 # passport-sessions
 
+## 1.1.2
+
+### Patch Changes
+
+- dfff045: 1.1.2
+
 ## 1.1.1
 
 ### Patch Changes
