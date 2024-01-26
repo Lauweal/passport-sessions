@@ -1,5 +1,11 @@
 # passport-sessions
 
+## 1.1.1
+
+### Patch Changes
+
+- 32ea807: 1.1.1
+
 ## 1.1.0
 
 ### Minor Changes
